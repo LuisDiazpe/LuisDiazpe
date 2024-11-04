@@ -17,6 +17,7 @@
 - I am learning.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy the career and sharing some projects of the university.
+- Currently, I work as a developer at Arkabia.
 
 ###
 
@@ -49,6 +50,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
 ###
@@ -67,4 +74,10 @@
   <a href="mailto:u20231d534@upc.edu.pe">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo"/>
   </a>
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diazfiestas&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
