@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Software Engineering student at UPC, passionate about programming in C++ and always looking to innovate 🚀👨‍💻
+  Software Engineering student at UPC, passionate about programming and always looking to innovate 🚀👨‍💻
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 <ul>
   <li>📍 I am 18 years old and I am from Cajamarca, Perú.</li>
-  <li>🎓 Software Engineering student in my 4th semester.</li>
+  <li>🎓 Software Engineering student in my 5th semester.</li>
   <li>🚀 Aspiring Software Engineer at Microsoft.</li>
   <li>💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.</li>
   <li>💼 Currently, I work as a developer at Arkabia.</li>
