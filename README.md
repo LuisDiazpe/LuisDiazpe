@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1NTA3d2M5dzd4YjB2b2U0eTE5b24zNWM1bzhsOHdwbHk4YzVrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="100" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1NTA3d2M5dzd4YjB2b2U0eTE5b24zNWM1bzhsOHdwbHk4YzVrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="200" />
   Hello! 👋, I'm Jorge Luis Díaz Fiestas
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1NTA3d2M5dzd4YjB2b2U0eTE5b24zNWM1bzhsOHdwbHk4YzVrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="100" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1NTA3d2M5dzd4YjB2b2U0eTE5b24zNWM1bzhsOHdwbHk4YzVrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="200" />
 </h1>
 
 <p align="center">
