@@ -20,7 +20,7 @@
   <li>🎓 Software Engineering student in my 5th semester.</li>
   <li>🚀 Aspiring Software Engineer at Microsoft.</li>
   <li>💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.</li>
-  <li>💼 Currently, I work as a developer at Arkabia.</li>
+  <li>💼 Currently, I work as a developer at <a href="https://arkabia.com" target="_blank">Arkabia</a> and <a href="https://lexcom.tech/" target="_blank">Lexcom</a>.</li>
 </ul>
 
 ---
