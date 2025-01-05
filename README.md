@@ -8,17 +8,15 @@
   Software Engineering student at UPC, passionate about programming and always looking to innovate 🚀👨‍💻
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisDiazpe&show_icons=true&theme=radical" alt="GitHub Stats" width="450px"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisDiazpe&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDiazpe&theme=radical" alt="GitHub Streak Stats" width="45%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDiazpe&theme=radical" alt="GitHub Streak Stats" width="450px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisDiazpe&theme=radical" alt="GitHub Profile Summary" width="450px"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisDiazpe&theme=radical" alt="GitHub Profile Summary" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDiazpe&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</div>
 
 ---
 
@@ -39,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" /> &nbsp;
@@ -53,6 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="MATLAB" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
 </p>
 
