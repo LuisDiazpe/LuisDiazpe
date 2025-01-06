@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Software Engineering student at UPC(Universidad Peruana de Ciencias Aplicadas), passionate about programming and always looking to innovate 🚀👨‍💻
+  Software Engineering student at UPC, passionate about programming and always looking to innovate 🚀👨‍💻
 </p>
 
 <div align="center">
