@@ -1,27 +1,27 @@
-<h1 align="center">
+<h1 align="center" style="animation: bounce 2s infinite;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1NTA3d2M5dzd4YjB2b2U0eTE5b24zNWM1bzhsOHdwbHk4YzVrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="160" />
   Hello! 👋, I'm Jorge Luis Díaz Fiestas
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1NTA3d2M5dzd4YjB2b2U0eTE5b24zNWM1bzhsOHdwbHk4YzVrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="160" />
 </h1>
 
-<p align="center">
+<p align="center" style="animation: fadeIn 3s;">
   Software Engineering student at UPC, passionate about programming and always looking to innovate 🚀👨‍💻
 </p>
 
-<div align="center">
+<div align="center" style="animation: slideInFromLeft 2s;">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisDiazpe&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDiazpe&theme=radical" alt="GitHub Streak Stats" width="45%" />
 </div>
 
-<div align="center">
+<div align="center" style="animation: slideInFromRight 2s;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisDiazpe&theme=radical" alt="GitHub Profile Summary" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDiazpe&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </div>
 
 ---
 
-<h2 align="center">🧑‍💻 About Me</h2>
-<ul>
+<h2 align="center" style="animation: zoomIn 1.5s;">🧑‍💻 About Me</h2>
+<ul style="animation: fadeInUp 2s;">
   <li>📍 I am 18 years old and I am from Cajamarca, Perú.</li>
   <li>🎓 Software Engineering student in my 5th semester.</li>
   <li>🚀 Aspiring Software Engineer at Microsoft.</li>
@@ -31,10 +31,10 @@
 
 ---
 
-<h3 align="center">🚀 Technologies I Use</h3>
+<h3 align="center" style="animation: pulse 1.5s infinite;">🚀 Technologies I Use</h3>
 
 ### 🌐 Web Development
-<p align="center">
+<p align="center" style="animation: rotateIn 2s;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /> &nbsp;
@@ -44,7 +44,7 @@
 </p>
 
 ### 🗄️ Databases
-<p align="center">
+<p align="center" style="animation: flipInX 1.5s;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" /> &nbsp;
@@ -73,8 +73,8 @@
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
-<p align="center">
+<h2 align="center" style="animation: shakeX 1.5s;">📫 Contact Me</h2>
+<p align="center" style="animation: zoomInDown 2s;">
   <a href="https://wa.me/51954162053?text=Hola%2C%20Jorge!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp"/>
   </a>
@@ -88,3 +88,4 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook"/>
   </a>
 </p>
+
