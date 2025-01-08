@@ -8,15 +8,13 @@
   Software Engineering student at UPC, passionate about programming and always looking to innovate 🚀👨‍💻
 </p>
 
-<div align="center" style="animation: slideInFromLeft 2s;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisDiazpe&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDiazpe&theme=radical" alt="GitHub Streak Stats" width="45%" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisDiazpe&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDiazpe&theme=radical" alt="GitHub Streak Stats" width="400" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisDiazpe&theme=radical" alt="GitHub Profile Summary" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDiazpe&layout=compact&theme=radical" alt="Top Languages" width="400" height="200" />
 </div>
 
-<div align="center" style="animation: slideInFromRight 2s;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisDiazpe&theme=radical" alt="GitHub Profile Summary" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDiazpe&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</div>
 
 ---
 
