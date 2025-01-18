@@ -20,11 +20,14 @@
 
 <h2 align="center" style="animation: zoomIn 1.5s;">🧑‍💻 About Me</h2>
 <ul style="animation: fadeInUp 2s;">
-  <li>📍 I am 18 years old and I am from Cajamarca, Perú.</li>
+  <li>📍 I am 19 years old and I am from Cajamarca, Perú.</li>
   <li>🎓 Software Engineering student in my 5th semester.</li>
   <li>🚀 Aspiring Software Engineer at Microsoft.</li>
   <li>💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.</li>
   <li>💼 Currently, I work as a developer at <a href="https://arkabia.com" target="_blank">Arkabia</a> and <a href="https://lexcom.tech/" target="_blank">Lexcom</a>.</li>
+  <li>🌟 I aspire to become a Full-Stack Developer and love contributing to the community through open-source projects.</li>
+  <li>🌍 I can communicate fluently in English and Portuguese</li>
+  <li>📜 Motto: "The best way to predict the future is to invent it." – Alan Kay</li>
 </ul>
 
 ---
