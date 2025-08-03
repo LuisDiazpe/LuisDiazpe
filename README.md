@@ -35,24 +35,7 @@
 <h3 align="center" style="animation: pulse 1.5s infinite;">🚀 Technologies I Use</h3>
 
 ### 🌐 Web Development
-<p align="center" style="animation: rotateIn 2s;">
-  <a href="https://greensprout-innovations.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  </a> &nbsp;
-  <a href="https://luisdiazpe.github.io/Skilhub.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  </a> &nbsp;
-  <a href="https://luisdiazpe.github.io/VTM-3.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  </a> &nbsp;
-  <a href="https://www.arkabia.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  </a> &nbsp;
-  <a href="https://www.arkabia.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  </a> &nbsp;
-
-</p>
+<p align="center" style="animation: rotateIn 2s;"> <a href="https://greensprout-innovations.github.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /> </a> &nbsp; <a href="https://luisdiazpe.github.io/Skilhub.github.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /> </a> &nbsp; <a href="https://luisdiazpe.github.io/VTM-3.github.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /> </a> &nbsp; <a href="https://www.arkabia.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" /> </a> &nbsp; <a href="https://www.arkabia.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" /> </a> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" /> </p>
 
 ### 🗄️ Databases
 <p align="center" style="animation: flipInX 1.5s;">
@@ -75,33 +58,10 @@
 </p>
 
 ### 💻 Programming Languages
-<p align="center">
-  <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  </a> &nbsp;
-  <a href="https://github.com/JhosepAC/ElectroGest" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  </a> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="MATLAB" /> &nbsp;
-  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
-  </a>&nbsp;
-</p>
+<p align="center"> <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /> </a> &nbsp; <a href="https://github.com/JhosepAC/ElectroGest" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /> </a> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="MATLAB" /> &nbsp; <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" /> </a>&nbsp; </p>
 
 ### 🛠️ Tools & Version Control
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> &nbsp;
-  <a href="https://gitlab.com/LuisDiazpe" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" />
-  </a>  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> &nbsp; <a href="https://gitlab.com/LuisDiazpe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" /> </a> &nbsp; <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /> &nbsp; <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white&style=flat-square" height="30" alt="Miro" /> &nbsp; <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=flat-square" height="30" alt="Trello" /> &nbsp; <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" height="30" alt="Postman" /> &nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square" height="30" alt="Swagger" /> </p>
 
 ---
 
