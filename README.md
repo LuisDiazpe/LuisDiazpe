@@ -78,7 +78,22 @@
 </p>
 
 ### 💻 Programming Languages
-<p align="center"> <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /> </a> &nbsp; <a href="https://github.com/JhosepAC/ElectroGest" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /> </a> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="MATLAB" /> &nbsp; <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" /> </a>&nbsp; </p>
+<p align="center">
+  <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  </a>&nbsp;
+  <a href="https://github.com/JhosepAC/ElectroGest" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  </a>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="MATLAB" />&nbsp;
+  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
+  </a>
+</p>
+
 
 ### 🛠️ Tools & Version Control
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> &nbsp; <a href="https://gitlab.com/LuisDiazpe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" /> </a> &nbsp; <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /> &nbsp; <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white&style=flat-square" height="30" alt="Miro" /> &nbsp; <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=flat-square" height="30" alt="Trello" /> &nbsp; <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" height="30" alt="Postman" /> &nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square" height="30" alt="Swagger" /> </p>
