@@ -21,7 +21,7 @@
 <h2 align="center" style="animation: zoomIn 1.5s;">🧑‍💻 About Me</h2>
 <ul style="animation: fadeInUp 2s;">
   <li>📍 I am 19 years old and I am from Cajamarca, Perú.</li>
-  <li>🎓 Software Engineering student in my 5th semester.</li>
+  <li>🎓 Software Engineering student in my 7th semester.</li>
   <li>🚀 Aspiring Software Engineer at Microsoft.</li>
   <li>💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.</li>
   <li>💼 Currently, I work as a developer at <a href="https://arkabia.com" target="_blank">Arkabia</a> </li>
@@ -54,6 +54,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
+</p>
+
+### 📱 Mobile Development
+<p align="center" style="animation: fadeInUp 1.5s;">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  </a>&nbsp;
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
+  </a>&nbsp;
+  <a href="https://developer.android.com/kotlin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
+  </a>&nbsp;
+  <a href="https://dart.dev/tools/sdk" target="_blank">
+    <img src="https://img.shields.io/badge/Dart%20SDK-0175C2?logo=dart&logoColor=white&style=flat-square" height="30" alt="Dart SDK" />
+  </a>
+</p>
+<p align="center">
+  Development of cross-platform and native mobile applications using Flutter and Kotlin,
+  applying clean architecture, state management and REST API integration.
 </p>
 
 
