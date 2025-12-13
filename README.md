@@ -71,10 +71,7 @@
     <img src="https://img.shields.io/badge/Dart%20SDK-0175C2?logo=dart&logoColor=white&style=flat-square" height="30" alt="Dart SDK" />
   </a>
 </p>
-<p align="center">
-  Development of cross-platform and native mobile applications using Flutter and Kotlin,
-  applying clean architecture, state management and REST API integration.
-</p>
+
 
 
 ### 🗄️ Databases
