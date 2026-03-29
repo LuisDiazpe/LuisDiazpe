@@ -94,6 +94,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
 </p>
 
+### 💻 Programming Languages
 <p align="center" style="white-space: nowrap;">
   <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
@@ -115,9 +116,9 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" />&nbsp;
 
-  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank" style="display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
-</a>
+  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
+  </a>
 </p>
 
 
