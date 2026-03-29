@@ -116,8 +116,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" style="display:inline-block;" />
 
-  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
+  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank" style="display:inline-block; text-decoration: underline;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
   </a>
 </p>
 
