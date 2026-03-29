@@ -95,29 +95,29 @@
 </p>
 
 ### 💻 Programming Languages
-<p align="center" style="white-space: nowrap;">
-  <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank">
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; align-items: center;">
+  <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  </a>&nbsp;
+  </a>
 
-  <a href="https://github.com/JhosepAC/ElectroGest" target="_blank">
+  <a href="https://github.com/JhosepAC/ElectroGest" target="_blank" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  </a>&nbsp;
+  </a>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" style="display:inline-block;" />
 
-  <a href="https://github.com/1ASI0729-2510-4313-G3-SplitEasy/backend-app" target="_blank">
+  <a href="https://github.com/1ASI0729-2510-4313-G3-SplitEasy/backend-app" target="_blank" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  </a>&nbsp;
+  </a>
 
-  <a href="https://github.com/WorkStation-MarronCoders/backeend" target="_blank">
+  <a href="https://github.com/WorkStation-MarronCoders/backeend" target="_blank" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  </a>&nbsp;
+  </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" style="display:inline-block;" />
 
   <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank" style="display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
   </a>
 </p>
 
