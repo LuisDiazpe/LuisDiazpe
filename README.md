@@ -20,7 +20,7 @@
 
 <h2 align="center" style="animation: zoomIn 1.5s;">🧑‍💻 About Me</h2>
 <ul style="animation: fadeInUp 2s;">
-  <li>📍 I am 19 years old and I am from Cajamarca, Perú.</li>
+  <li>📍 I am 20 years old and I am from Cajamarca, Perú.</li>
   <li>🎓 Software Engineering student in my 7th semester.</li>
   <li>🚀 Aspiring Software Engineer at Microsoft.</li>
   <li>💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.</li>
