@@ -24,8 +24,8 @@
   <li>🎓 Software Engineering student in my 7th semester.</li>
   <li>🚀 Aspiring Software Engineer at Microsoft.</li>
   <li>💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.</li>
-  <li>💼 Currently, I work as a developer at <a href="https://arkabia.com" target="_blank">Arkabia</a> </li>
-  <li>🌟 I aspire to become a Full-Stack Developer and love contributing to the community through open-source projects.</li>
+  <li>💼 Currently, I work as a Full-Stack developer at <a href="https://arkabia.com" target="_blank">Arkabia</a> </li>
+  <li>🌟 I aspire to become a Software Architect and love contributing to the community through open-source projects.</li>
   <li>🌍 I can communicate fluently in English, Spanish and Portuguese</li>
   <li>📜 Motto: "The best way to predict the future is to invent it." – Alan Kay</li>
 </ul>
