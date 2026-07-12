@@ -24,7 +24,7 @@
   <li>🎓 Currently in my 8th semester of Software Engineering.</li>
   <li>🚀 Aspiring Software Engineer at Microsoft.</li>
   <li>💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.</li>
-  <li>💼 Currently, I work as a Junior Full-Stack Developer at <a href="https://arkabia.com" target="_blank">Arkabia</a> and as Technical Lead for <a href="https://app.meproind.com/" target="_blank">Meproind</a>, a new business venture by Arkabia.</li>
+  <li>💼 Junior Full-Stack Developer at <a href="https://arkabia.com" target="_blank">Arkabia</a> · Technical Lead at <a href="https://app.meproind.com/" target="_blank">Meproind</a>.</li>
   <li>🌟 I aspire to become a Software Architect and love contributing to the community through open-source projects.</li>
   <li>🌍 I can communicate fluently in English, Spanish and Portuguese</li>
   <li>📜 Motto: "The best way to predict the future is to invent it." – Alan Kay</li>
