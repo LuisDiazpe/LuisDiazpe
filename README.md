@@ -35,72 +35,69 @@
 
 <h3 align="center">🌐 Web Development</h3>
 <p align="center">
-  <a href="https://greensprout-innovations.github.io/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://luisdiazpe.github.io/Skilhub.github.io/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://luisdiazpe.github.io/VTM-3.github.io/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.arkabia.com/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://www.arkabia.com/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <a href="https://greensprout-innovations.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" /></a>
+  <a href="https://luisdiazpe.github.io/Skilhub.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" /></a>
+  <a href="https://luisdiazpe.github.io/VTM-3.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /></a>
+  <a href="https://www.arkabia.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" /></a>
+  <a href="https://www.arkabia.com/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /></a>
+  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
 </p>
 
 <h3 align="center">📱 Mobile Development</h3>
 <p align="center">
-  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="https://developer.android.com/kotlin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Flutter" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" height="45" alt="Dart" /></a>
+  <a href="https://developer.android.com/kotlin" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" /></a>
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></a>
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" /></a>
+  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" /></a>
+  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /></a>
+  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" /></a>
 </p>
+<p align="center"><sub>Also: <b>SQL Server</b> · <b>JSON</b></sub></p>
 
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://github.com/JhosepAC/ElectroGest" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <a href="https://github.com/1ASI0729-2510-4313-G3-SplitEasy/backend-app" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://github.com/WorkStation-MarronCoders/backeend" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
+  <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="45" alt="Python" /></a>
+  <a href="https://github.com/JhosepAC/ElectroGest" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /></a>
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
+  <a href="https://github.com/1ASI0729-2510-4313-G3-SplitEasy/backend-app" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" /></a>
+  <a href="https://github.com/WorkStation-MarronCoders/backeend" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /></a>
+  <img src="https://skillicons.dev/icons?i=matlab" height="45" alt="MATLAB" />
+  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="45" alt="Arduino" /></a>
 </p>
 
 <h3 align="center">☁️ Cloud & Deployment</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
-  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="45" alt="Microsoft Azure" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" /></a>
+  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="Cloudflare" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase" /></a>
 </p>
 
 <h3 align="center">🛠️ Tools & Version Control</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <a href="https://gitlab.com/LuisDiazpe" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <a href="https://gitlab.com/LuisDiazpe" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="GitLab" /></a>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
 </p>
+<p align="center"><sub>Also: <b>Swagger</b> · <b>Miro</b> · <b>Trello</b></sub></p>
 
 ---
 
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
-  <a href="https://wa.me/51954162053?text=Hola%2C%20Jorge!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.instagram.com/diazfiestas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:luidi678u@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="mailto:u20231d534@upc.edu.pe"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
+  <a href="https://wa.me/51954162053?text=Hola%2C%20Jorge!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/diazfiestas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" /></a>
+  <a href="mailto:luidi678u@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" /></a>
+  <a href="mailto:u20231d534@upc.edu.pe"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook" /></a>
 </p>
