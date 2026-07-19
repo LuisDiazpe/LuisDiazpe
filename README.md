@@ -1,166 +1,106 @@
-<h1 align="center" style="animation: bounce 2s infinite;">
+<h1 align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1NTA3d2M5dzd4YjB2b2U0eTE5b24zNWM1bzhsOHdwbHk4YzVrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="160" />
   Hello! 👋, I'm Jorge Luis Díaz Fiestas
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1NTA3d2M5dzd4YjB2b2U0eTE5b24zNWM1bzhsOHdwbHk4YzVrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u4nJPf0JtQPdStq/giphy.gif" width="160" />
 </h1>
 
-<p align="center" style="animation: fadeIn 3s;">
+<p align="center">
   Software Engineering student at UPC, passionate about programming and always looking to innovate 🚀👨‍💻
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisDiazpe&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDiazpe&theme=radical" alt="GitHub Streak Stats" width="400" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisDiazpe&theme=radical" alt="GitHub Profile Summary" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDiazpe&layout=compact&theme=radical" alt="Top Languages" width="400" height="200" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisDiazpe&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDiazpe&theme=radical" alt="GitHub Streak Stats" height="180" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisDiazpe&theme=radical" alt="GitHub Profile Summary" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDiazpe&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </div>
 
+---
+
+<h2 align="center">🧑‍💻 About Me</h2>
+
+- 📍 I am 20 years old and I am from Cajamarca, Perú.
+- 🎓 Currently in my 8th semester of Software Engineering.
+- 🚀 Aspiring Software Engineer at Microsoft.
+- 💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.
+- 💼 Junior Full-Stack Developer at [Arkabia](https://arkabia.com) · Technical Lead at [Meproind](https://app.meproind.com/).
+- 🌟 I aspire to become a Software Architect and love contributing to the community through open-source projects.
+- 🌍 I can communicate fluently in English, Spanish and Portuguese.
+- 📜 Motto: *"The best way to predict the future is to invent it."* – Alan Kay
 
 ---
 
-<h2 align="center" style="animation: zoomIn 1.5s;">🧑‍💻 About Me</h2>
-<ul style="animation: fadeInUp 2s;">
-  <li>📍 I am 20 years old and I am from Cajamarca, Perú.</li>
-  <li>🎓 Currently in my 8th semester of Software Engineering.</li>
-  <li>🚀 Aspiring Software Engineer at Microsoft.</li>
-  <li>💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.</li>
-  <li>💼 Junior Full-Stack Developer at <a href="https://arkabia.com" target="_blank">Arkabia</a> · Technical Lead at <a href="https://app.meproind.com/" target="_blank">Meproind</a>.</li>
-  <li>🌟 I aspire to become a Software Architect and love contributing to the community through open-source projects.</li>
-  <li>🌍 I can communicate fluently in English, Spanish and Portuguese</li>
-  <li>📜 Motto: "The best way to predict the future is to invent it." – Alan Kay</li>
-</ul>
+<h2 align="center">🚀 Technologies I Use</h2>
 
----
-
-<h3 align="center" style="animation: pulse 1.5s infinite;">🚀 Technologies I Use</h3>
-
-### 🌐 Web Development
+<h3 align="center">🌐 Web Development</h3>
 <p align="center">
-  <a href="https://greensprout-innovations.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  </a>&nbsp;
-  <a href="https://luisdiazpe.github.io/Skilhub.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  </a>&nbsp;
-  <a href="https://luisdiazpe.github.io/VTM-3.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  </a>&nbsp;
-  <a href="https://www.arkabia.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  </a>&nbsp;
-  <a href="https://www.arkabia.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  </a>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
+  <a href="https://greensprout-innovations.github.io/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://luisdiazpe.github.io/Skilhub.github.io/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://luisdiazpe.github.io/VTM-3.github.io/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.arkabia.com/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.arkabia.com/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### 📱 Mobile Development
-<p align="center" style="animation: fadeInUp 1.5s;">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-  </a>&nbsp;
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
-  </a>&nbsp;
-  <a href="https://developer.android.com/kotlin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
-  </a>&nbsp;
-  <a href="https://dart.dev/tools/sdk" target="_blank">
-    <img src="https://img.shields.io/badge/Dart%20SDK-0175C2?logo=dart&logoColor=white&style=flat-square" height="30" alt="Dart SDK" />
-  </a>
-</p>
-
-
-
-### 🗄️ Databases
-<p align="center" style="animation: flipInX 1.5s;">
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
-  </a> &nbsp;
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" />
-  </a> &nbsp;
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  </a> &nbsp;
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  </a> &nbsp;
-  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="30" alt="JSON" />
-  </a> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-</p>
-
-### 💻 Programming Languages
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; align-items: center;">
-  <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  </a>
-
-  <a href="https://github.com/JhosepAC/ElectroGest" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  </a>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" style="display:inline-block;" />
-
-  <a href="https://github.com/1ASI0729-2510-4313-G3-SplitEasy/backend-app" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  </a>
-
-  <a href="https://github.com/WorkStation-MarronCoders/backeend" target="_blank" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  </a>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" style="display:inline-block;" />
-
-  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank" style="display:inline-block; text-decoration: underline;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
-  </a>
-</p>
-
-### ☁️ Cloud & Deployment
-<p align="center" style="animation: fadeInUp 1.5s;">
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Microsoft Azure" />
-  </a>&nbsp;
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" height="30" alt="Vercel" />
-  </a>&nbsp;
-  <a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="30" alt="Cloudflare" />
-  </a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  </a>
-</p>
-
+<h3 align="center">📱 Mobile Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square" height="25" alt="Azure" />&nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" height="25" alt="Vercel" />&nbsp;
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square" height="25" alt="Cloudflare" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" height="25" alt="Firebase" />
+  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="https://developer.android.com/kotlin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
 </p>
 
-### 🛠️ Tools & Version Control
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> &nbsp; <a href="https://gitlab.com/LuisDiazpe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" /> </a> &nbsp; <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /> &nbsp; <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white&style=flat-square" height="30" alt="Miro" /> &nbsp; <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=flat-square" height="30" alt="Trello" /> &nbsp; <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" height="30" alt="Postman" /> &nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square" height="30" alt="Swagger" /> </p>
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></a>
+  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://luisdiazpe.github.io/secret-friend.github.io/" target="_blank"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" /></a>
+</p>
+
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <a href="https://github.com/LuisDiazpe/AssistantPe" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/JhosepAC/ElectroGest" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <a href="https://github.com/1ASI0729-2510-4313-G3-SplitEasy/backend-app" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://github.com/WorkStation-MarronCoders/backeend" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <a href="https://github.com/LuisDiazpe/Pastillero.ino" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
+</p>
+
+<h3 align="center">☁️ Cloud & Deployment</h3>
+<p align="center">
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+</p>
+
+<h3 align="center">🛠️ Tools & Version Control</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://gitlab.com/LuisDiazpe" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
 
 ---
 
-<h2 align="center" style="animation: shakeX 1.5s;">📫 Contact Me</h2>
-<p align="center" style="animation: zoomInDown 2s;">
-  <a href="https://wa.me/51954162053?text=Hola%2C%20Jorge!" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.instagram.com/diazfiestas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"/>
-  </a>
-  <a href="mailto:luidi678u@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
-  </a>
-  <a href="mailto:u20231d534@upc.edu.pe">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook"/>
-  </a>
+<h2 align="center">📫 Contact Me</h2>
+<p align="center">
+  <a href="https://wa.me/51954162053?text=Hola%2C%20Jorge!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/diazfiestas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:luidi678u@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:u20231d534@upc.edu.pe"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
 </p>
