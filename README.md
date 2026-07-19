@@ -121,6 +121,28 @@
   </a>
 </p>
 
+### ☁️ Cloud & Deployment
+<p align="center" style="animation: fadeInUp 1.5s;">
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Microsoft Azure" />
+  </a>&nbsp;
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" height="30" alt="Vercel" />
+  </a>&nbsp;
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="30" alt="Cloudflare" />
+  </a>&nbsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square" height="25" alt="Azure" />&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" height="25" alt="Vercel" />&nbsp;
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square" height="25" alt="Cloudflare" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" height="25" alt="Firebase" />
+</p>
 
 ### 🛠️ Tools & Version Control
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /> &nbsp; <a href="https://gitlab.com/LuisDiazpe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" /> </a> &nbsp; <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /> &nbsp; <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white&style=flat-square" height="30" alt="Miro" /> &nbsp; <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=flat-square" height="30" alt="Trello" /> &nbsp; <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" height="30" alt="Postman" /> &nbsp; <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square" height="30" alt="Swagger" /> </p>
@@ -142,4 +164,3 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook"/>
   </a>
 </p>
-
