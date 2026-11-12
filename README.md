@@ -24,7 +24,7 @@
 - 🎓 Currently in my 8th semester of Software Engineering.
 - 🚀 Aspiring Software Engineer at Microsoft.
 - 💡 I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- 💼 Junior Full-Stack Developer & AI at [Anddes](https://anddes.com/) · Technical Lead at [Meproind](https://app.meproind.com/).
+- 💼 Full-Stack & AI Developer [Anddes](https://anddes.com/) · Technical Lead at [Meproind](https://app.meproind.com/).
 - 🌟 I aspire to become a Software Architect and love contributing to the community through open-source projects.
 - 🌍 I can communicate fluently in English, Spanish and Portuguese.
 - 📜 Motto: *"The best way to predict the future is to invent it."* – Alan Kay
